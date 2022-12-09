@@ -31,6 +31,7 @@
 </head>
 <body>
 <h1>자유게시판</h1>
+관리자님 안녕하세요~ <a href="../login/logout">logout</a><br/>
 <table id="list" width="90%">
     <tr>
         <th>Id</th>
